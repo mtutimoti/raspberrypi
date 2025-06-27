@@ -80,5 +80,7 @@
    時間がかかる(約5分)
    
    以下の問いに答えると自動的に再起動する
+   ```
    Do you want to edit the driver options file now? (recommended) [Y/n] n
    Do you want to apply the new options by rebooting now? (recommended) [Y/n] y
+   ```
